@@ -1,0 +1,14 @@
+Starting with the rightmost node:
+Arc:    Weight:
+AB        10
+AC        10
+CE        11
+EF        5
+FD        7
+EH        8
+HK        7
+KI        12
+IJ        6
+JG        10
+The result is exactly the same minimum spanning tree.
+This is not to say that there cannot be multiple minimum spanning trees for a graph though.
