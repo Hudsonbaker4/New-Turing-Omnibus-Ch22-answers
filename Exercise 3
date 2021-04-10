@@ -1,0 +1,13 @@
+Starting with the rightmost node.
+Arc:    Weight:
+AB        10
+BG        16
+BC        14
+GD        14
+DI        13
+IK        12
+KJ        15
+CE        11
+KF        10
+EH        8
+Total weight = 123
